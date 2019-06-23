@@ -1,7 +1,7 @@
 # Vue-CLI 实现 CNode 社区
 
 本项目利用 CNode 社区提供的 API，使用 Vue-CLI 手脚架、Vue 组件、Vue-router 搭建仿 CNode 社区项目，并重新布局。
-项目地址：[vue-cnode](https://mmmmmr.github.io/vue-node)
+项目地址：[vue-cnode](https://mmmmmr.github.io/vue-cnode)
 
 ## 项目技术栈
 
